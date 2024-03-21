@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  duckdb-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-21T11:27:55.559170228-03:00"
+    description: A Helm chart for Kubernetes
+    digest: ef703e1d3b0a74785b05c747d60aa779029d5041ec0a3296524fcf2f3c588e53
+    name: duckdb-test
+    type: application
+    urls:
+    - charts/duckdb-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-21T11:27:55.558353446-03:00"
